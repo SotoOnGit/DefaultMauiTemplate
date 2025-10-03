@@ -8,7 +8,6 @@ namespace Configuration
         public string FirebaseToken { get; set; }
 
         public StaticConfig StaticConfig { get; }
-        public Stream DefaultImage { get; }
 
         public void Log(string information);
         public bool IsInternetConnection();
