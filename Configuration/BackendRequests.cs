@@ -13,7 +13,7 @@
         ResetPassword = 50,
         SendValidationCode = 60,
         ConfirmValidationCode = 70,
-        RefreshToken = 80, 
+        RefreshToken = 80,  
 
         //Account
 
